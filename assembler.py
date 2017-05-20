@@ -1,4 +1,3 @@
-"""
 from numba import jit
 from numpy import arange
 
@@ -17,4 +16,3 @@ def sum2d(arr):
 
 a = arange(9).reshape(3, 3)
 print(sum2d(a))
-"""
