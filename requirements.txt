@@ -2,7 +2,7 @@ causality==0.0.3
 matplotlib==3.1.2
 numba==0.33.0
 numpy==1.12.1
-pandas==0.18.1
+pandas==1.0.3
 plac==0.9.6
 scipy==0.19.0
 tensorflow==1.1.0
