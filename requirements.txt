@@ -1,4 +1,4 @@
-causality==0.0.3
+causality==0.0.9
 matplotlib==3.3.3
 numba==0.51.2
 numpy==1.12.1
