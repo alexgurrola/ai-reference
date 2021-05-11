@@ -1,6 +1,6 @@
 causality==0.0.9
 matplotlib==3.3.3
-numba==0.51.2
+numba==0.53.1
 numpy==1.20.3
 pandas==1.1.4
 plac==1.2.0
